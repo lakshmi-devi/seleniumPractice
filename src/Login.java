@@ -33,6 +33,6 @@ public class Login {
 //   String fileName = "img" + dateTime + ".png";
 //    File srcFile = screenshot.getScreenshotAs(OutputType.FILE);
 //    FileUtils.copyFile(srcFile, new File("C:\\Users\\ACCESS\\Desktop\\screenshot\\"+fileName));
-//	driver.close();
+	driver.close();
 }
 }
